@@ -1,0 +1,10 @@
+
+## **requirements.txt exemple**
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+jupyter
